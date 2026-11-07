@@ -10,6 +10,6 @@ Keywords: carousel,instagram,linkedin,slides,agentic-suite,cli,mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-carousel
-- Core contract: https://github.com/pooriaarab/agentic-carousel/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-carousel
+- Core contract: https://github.com/itsryanarmani/agentic-carousel/blob/main/docs/agentic-core.md
 - License: MIT
