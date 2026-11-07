@@ -72,7 +72,7 @@ Carousel operations do not record cost units. The shared SDK also exports generi
 
 ## Links and status
 
-[Package](https://www.npmjs.com/package/agentic-carousel) · [Source and support](https://github.com/pooriaarab/agentic-carousel)
+[Package](https://www.npmjs.com/package/agentic-carousel) · [Source and support](https://github.com/itsryanarmani/agentic-carousel)
 
 Version 0.1.0 APIs can change. Public case studies are not yet published.
 Run `npm run build`, `npm run typecheck`, and `npm test` before contributing.
